@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=FFFFFF&width=550&height=100&lines=%E2%9C%A8+welcome+to+my++profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=1F2DFF&width=550&height=100&lines=%E2%9C%A8+welcome+to+my++profile+)](https://git.io/typing-svg)
 
 <!--
 **geofreybundala/geofreybundala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
